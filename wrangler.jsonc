@@ -1,0 +1,6 @@
+{
+  "name": "sip-worker-example-3",
+  "main": "./src/index.ts",
+  "compatibility_date": "2026-04-08",
+  "compatibility_flags": ["nodejs_compat"]
+}
